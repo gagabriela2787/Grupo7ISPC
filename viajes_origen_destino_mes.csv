@@ -1,0 +1,1228 @@
+﻿mes_inicio,provincia_origen,provincia_destino,viajes,viajeros,edicion
+2022-10,Buenos Aires,Buenos Aires,6822,16292,previaje 3
+2022-10,Buenos Aires,Catamarca,674,1321,previaje 3
+2022-10,Buenos Aires,Chaco,76,135,previaje 3
+2022-10,Buenos Aires,Chubut,3898,8725,previaje 3
+2022-10,Buenos Aires,Ciudad Autónoma de Buenos Aires,1849,3667,previaje 3
+2022-10,Buenos Aires,Córdoba,3424,7460,previaje 3
+2022-10,Buenos Aires,Corrientes,474,1024,previaje 3
+2022-10,Buenos Aires,Entre Ríos,2046,4589,previaje 3
+2022-10,Buenos Aires,Formosa,60,111,previaje 3
+2022-10,Buenos Aires,Jujuy,2404,5355,previaje 3
+2022-10,Buenos Aires,La Pampa,86,204,previaje 3
+2022-10,Buenos Aires,La Rioja,801,1452,previaje 3
+2022-10,Buenos Aires,Mendoza,4197,8872,previaje 3
+2022-10,Buenos Aires,Misiones,5536,13544,previaje 3
+2022-10,Buenos Aires,Neuquén,1809,4270,previaje 3
+2022-10,Buenos Aires,Río Negro,5163,11264,previaje 3
+2022-10,Buenos Aires,Salta,5251,10793,previaje 3
+2022-10,Buenos Aires,San Juan,623,1085,previaje 3
+2022-10,Buenos Aires,San Luis,1280,2544,previaje 3
+2022-10,Buenos Aires,Santa Cruz,3863,8308,previaje 3
+2022-10,Buenos Aires,Santa Fe,403,836,previaje 3
+2022-10,Buenos Aires,Santiago del Estero,976,1919,previaje 3
+2022-10,Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",3244,6927,previaje 3
+2022-10,Buenos Aires,Tucumán,1206,2317,previaje 3
+2022-10,Catamarca,Buenos Aires,39,83,previaje 3
+2022-10,Catamarca,Catamarca,44,68,previaje 3
+2022-10,Catamarca,Chubut,5,18,previaje 3
+2022-10,Catamarca,Ciudad Autónoma de Buenos Aires,118,197,previaje 3
+2022-10,Catamarca,Córdoba,53,102,previaje 3
+2022-10,Catamarca,Jujuy,9,22,previaje 3
+2022-10,Catamarca,La Rioja,3,7,previaje 3
+2022-10,Catamarca,Mendoza,14,39,previaje 3
+2022-10,Catamarca,Misiones,10,20,previaje 3
+2022-10,Catamarca,Río Negro,12,32,previaje 3
+2022-10,Catamarca,Salta,10,21,previaje 3
+2022-10,Catamarca,San Juan,19,38,previaje 3
+2022-10,Catamarca,Santa Fe,5,13,previaje 3
+2022-10,Catamarca,Santiago del Estero,14,42,previaje 3
+2022-10,Catamarca,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",10,17,previaje 3
+2022-10,Catamarca,Tucumán,15,38,previaje 3
+2022-10,Chaco,Buenos Aires,114,219,previaje 3
+2022-10,Chaco,Catamarca,5,10,previaje 3
+2022-10,Chaco,Chaco,23,27,previaje 3
+2022-10,Chaco,Chubut,99,250,previaje 3
+2022-10,Chaco,Ciudad Autónoma de Buenos Aires,438,918,previaje 3
+2022-10,Chaco,Córdoba,126,287,previaje 3
+2022-10,Chaco,Corrientes,28,73,previaje 3
+2022-10,Chaco,Entre Ríos,11,32,previaje 3
+2022-10,Chaco,Jujuy,34,82,previaje 3
+2022-10,Chaco,La Pampa,3,8,previaje 3
+2022-10,Chaco,Mendoza,220,908,previaje 3
+2022-10,Chaco,Misiones,52,131,previaje 3
+2022-10,Chaco,Neuquén,34,139,previaje 3
+2022-10,Chaco,Río Negro,136,326,previaje 3
+2022-10,Chaco,Salta,96,219,previaje 3
+2022-10,Chaco,San Juan,6,11,previaje 3
+2022-10,Chaco,San Luis,27,44,previaje 3
+2022-10,Chaco,Santa Cruz,107,211,previaje 3
+2022-10,Chaco,Santa Fe,16,32,previaje 3
+2022-10,Chaco,Santiago del Estero,25,45,previaje 3
+2022-10,Chaco,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",199,446,previaje 3
+2022-10,Chaco,Tucumán,9,23,previaje 3
+2022-10,Chubut,Buenos Aires,226,411,previaje 3
+2022-10,Chubut,Catamarca,5,11,previaje 3
+2022-10,Chubut,Chaco,7,11,previaje 3
+2022-10,Chubut,Chubut,346,784,previaje 3
+2022-10,Chubut,Ciudad Autónoma de Buenos Aires,689,1169,previaje 3
+2022-10,Chubut,Córdoba,174,293,previaje 3
+2022-10,Chubut,Corrientes,8,10,previaje 3
+2022-10,Chubut,Entre Ríos,46,90,previaje 3
+2022-10,Chubut,Jujuy,48,82,previaje 3
+2022-10,Chubut,La Pampa,11,23,previaje 3
+2022-10,Chubut,La Rioja,16,21,previaje 3
+2022-10,Chubut,Mendoza,71,135,previaje 3
+2022-10,Chubut,Misiones,118,237,previaje 3
+2022-10,Chubut,Neuquén,53,135,previaje 3
+2022-10,Chubut,Río Negro,251,432,previaje 3
+2022-10,Chubut,Salta,141,209,previaje 3
+2022-10,Chubut,San Juan,29,61,previaje 3
+2022-10,Chubut,San Luis,33,50,previaje 3
+2022-10,Chubut,Santa Cruz,93,204,previaje 3
+2022-10,Chubut,Santa Fe,19,31,previaje 3
+2022-10,Chubut,Santiago del Estero,14,28,previaje 3
+2022-10,Chubut,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",96,169,previaje 3
+2022-10,Chubut,Tucumán,20,28,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Buenos Aires,4482,9841,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Catamarca,465,866,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Chaco,111,158,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Chubut,2686,5961,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,572,1133,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Córdoba,2128,3954,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Corrientes,414,806,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Entre Ríos,969,2148,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Formosa,50,81,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Jujuy,1825,3667,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,La Pampa,59,101,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,La Rioja,403,792,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Mendoza,3162,6303,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Misiones,3617,9004,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Neuquén,1307,2628,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Río Negro,3339,7074,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Salta,3193,6728,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,San Juan,421,785,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,San Luis,476,931,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Santa Cruz,2764,5724,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Santa Fe,376,697,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Santiago del Estero,384,737,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2163,4388,previaje 3
+2022-10,Ciudad Autónoma de Buenos Aires,Tucumán,754,1359,previaje 3
+2022-10,Córdoba,Buenos Aires,1042,2019,previaje 3
+2022-10,Córdoba,Catamarca,222,346,previaje 3
+2022-10,Córdoba,Chaco,23,34,previaje 3
+2022-10,Córdoba,Chubut,1834,3175,previaje 3
+2022-10,Córdoba,Ciudad Autónoma de Buenos Aires,3305,6201,previaje 3
+2022-10,Córdoba,Córdoba,1578,4055,previaje 3
+2022-10,Córdoba,Corrientes,122,237,previaje 3
+2022-10,Córdoba,Entre Ríos,183,432,previaje 3
+2022-10,Córdoba,Formosa,10,13,previaje 3
+2022-10,Córdoba,Jujuy,438,852,previaje 3
+2022-10,Córdoba,La Pampa,21,45,previaje 3
+2022-10,Córdoba,La Rioja,259,500,previaje 3
+2022-10,Córdoba,Mendoza,1180,2153,previaje 3
+2022-10,Córdoba,Misiones,1189,2499,previaje 3
+2022-10,Córdoba,Neuquén,421,887,previaje 3
+2022-10,Córdoba,Río Negro,1812,3442,previaje 3
+2022-10,Córdoba,Salta,965,1840,previaje 3
+2022-10,Córdoba,San Juan,92,197,previaje 3
+2022-10,Córdoba,San Luis,303,642,previaje 3
+2022-10,Córdoba,Santa Cruz,1284,2396,previaje 3
+2022-10,Córdoba,Santa Fe,124,230,previaje 3
+2022-10,Córdoba,Santiago del Estero,483,1022,previaje 3
+2022-10,Córdoba,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1009,1731,previaje 3
+2022-10,Córdoba,Tucumán,170,353,previaje 3
+2022-10,Corrientes,Buenos Aires,130,271,previaje 3
+2022-10,Corrientes,Catamarca,7,14,previaje 3
+2022-10,Corrientes,Chaco,4,8,previaje 3
+2022-10,Corrientes,Chubut,55,98,previaje 3
+2022-10,Corrientes,Ciudad Autónoma de Buenos Aires,414,698,previaje 3
+2022-10,Corrientes,Córdoba,88,125,previaje 3
+2022-10,Corrientes,Corrientes,66,152,previaje 3
+2022-10,Corrientes,Entre Ríos,23,63,previaje 3
+2022-10,Corrientes,Jujuy,29,79,previaje 3
+2022-10,Corrientes,La Rioja,9,12,previaje 3
+2022-10,Corrientes,Mendoza,61,138,previaje 3
+2022-10,Corrientes,Misiones,35,81,previaje 3
+2022-10,Corrientes,Neuquén,24,47,previaje 3
+2022-10,Corrientes,Río Negro,69,168,previaje 3
+2022-10,Corrientes,Salta,65,146,previaje 3
+2022-10,Corrientes,San Juan,6,19,previaje 3
+2022-10,Corrientes,San Luis,24,25,previaje 3
+2022-10,Corrientes,Santa Cruz,35,56,previaje 3
+2022-10,Corrientes,Santa Fe,14,27,previaje 3
+2022-10,Corrientes,Santiago del Estero,6,9,previaje 3
+2022-10,Corrientes,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",95,164,previaje 3
+2022-10,Corrientes,Tucumán,3,5,previaje 3
+2022-10,Entre Ríos,Buenos Aires,100,231,previaje 3
+2022-10,Entre Ríos,Catamarca,37,71,previaje 3
+2022-10,Entre Ríos,Chubut,311,517,previaje 3
+2022-10,Entre Ríos,Ciudad Autónoma de Buenos Aires,239,478,previaje 3
+2022-10,Entre Ríos,Córdoba,220,582,previaje 3
+2022-10,Entre Ríos,Corrientes,25,58,previaje 3
+2022-10,Entre Ríos,Entre Ríos,137,338,previaje 3
+2022-10,Entre Ríos,Jujuy,151,321,previaje 3
+2022-10,Entre Ríos,La Pampa,17,38,previaje 3
+2022-10,Entre Ríos,La Rioja,89,159,previaje 3
+2022-10,Entre Ríos,Mendoza,164,366,previaje 3
+2022-10,Entre Ríos,Misiones,203,465,previaje 3
+2022-10,Entre Ríos,Neuquén,102,203,previaje 3
+2022-10,Entre Ríos,Río Negro,289,624,previaje 3
+2022-10,Entre Ríos,Salta,329,625,previaje 3
+2022-10,Entre Ríos,San Juan,25,62,previaje 3
+2022-10,Entre Ríos,San Luis,47,105,previaje 3
+2022-10,Entre Ríos,Santa Cruz,316,595,previaje 3
+2022-10,Entre Ríos,Santa Fe,43,85,previaje 3
+2022-10,Entre Ríos,Santiago del Estero,114,212,previaje 3
+2022-10,Entre Ríos,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",388,658,previaje 3
+2022-10,Entre Ríos,Tucumán,44,116,previaje 3
+2022-10,Formosa,Buenos Aires,28,55,previaje 3
+2022-10,Formosa,Chubut,6,14,previaje 3
+2022-10,Formosa,Ciudad Autónoma de Buenos Aires,61,101,previaje 3
+2022-10,Formosa,Córdoba,9,16,previaje 3
+2022-10,Formosa,Corrientes,9,28,previaje 3
+2022-10,Formosa,Formosa,4,7,previaje 3
+2022-10,Formosa,Mendoza,10,12,previaje 3
+2022-10,Formosa,Misiones,4,4,previaje 3
+2022-10,Formosa,Neuquén,9,14,previaje 3
+2022-10,Formosa,Río Negro,3,12,previaje 3
+2022-10,Formosa,Santa Cruz,14,31,previaje 3
+2022-10,Formosa,Santa Fe,3,5,previaje 3
+2022-10,Formosa,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",8,18,previaje 3
+2022-10,Jujuy,Buenos Aires,123,213,previaje 3
+2022-10,Jujuy,Catamarca,6,21,previaje 3
+2022-10,Jujuy,Chubut,17,33,previaje 3
+2022-10,Jujuy,Ciudad Autónoma de Buenos Aires,268,458,previaje 3
+2022-10,Jujuy,Córdoba,93,139,previaje 3
+2022-10,Jujuy,Corrientes,5,16,previaje 3
+2022-10,Jujuy,Jujuy,89,201,previaje 3
+2022-10,Jujuy,Mendoza,15,29,previaje 3
+2022-10,Jujuy,Misiones,51,83,previaje 3
+2022-10,Jujuy,Neuquén,4,9,previaje 3
+2022-10,Jujuy,Río Negro,23,45,previaje 3
+2022-10,Jujuy,Salta,75,168,previaje 3
+2022-10,Jujuy,San Juan,4,6,previaje 3
+2022-10,Jujuy,San Luis,3,5,previaje 3
+2022-10,Jujuy,Santa Cruz,20,39,previaje 3
+2022-10,Jujuy,Santa Fe,5,5,previaje 3
+2022-10,Jujuy,Santiago del Estero,12,32,previaje 3
+2022-10,Jujuy,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",18,32,previaje 3
+2022-10,Jujuy,Tucumán,24,51,previaje 3
+2022-10,La Pampa,Buenos Aires,51,103,previaje 3
+2022-10,La Pampa,Catamarca,22,51,previaje 3
+2022-10,La Pampa,Chubut,177,282,previaje 3
+2022-10,La Pampa,Ciudad Autónoma de Buenos Aires,135,218,previaje 3
+2022-10,La Pampa,Córdoba,63,140,previaje 3
+2022-10,La Pampa,Corrientes,9,31,previaje 3
+2022-10,La Pampa,Entre Ríos,15,24,previaje 3
+2022-10,La Pampa,Jujuy,47,74,previaje 3
+2022-10,La Pampa,La Pampa,21,50,previaje 3
+2022-10,La Pampa,La Rioja,35,74,previaje 3
+2022-10,La Pampa,Mendoza,32,65,previaje 3
+2022-10,La Pampa,Misiones,127,251,previaje 3
+2022-10,La Pampa,Neuquén,37,75,previaje 3
+2022-10,La Pampa,Río Negro,96,137,previaje 3
+2022-10,La Pampa,Salta,86,144,previaje 3
+2022-10,La Pampa,San Juan,10,23,previaje 3
+2022-10,La Pampa,San Luis,22,47,previaje 3
+2022-10,La Pampa,Santa Cruz,86,152,previaje 3
+2022-10,La Pampa,Santa Fe,4,12,previaje 3
+2022-10,La Pampa,Santiago del Estero,11,17,previaje 3
+2022-10,La Pampa,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",52,83,previaje 3
+2022-10,La Pampa,Tucumán,17,44,previaje 3
+2022-10,La Rioja,Buenos Aires,50,87,previaje 3
+2022-10,La Rioja,Catamarca,21,44,previaje 3
+2022-10,La Rioja,Chubut,6,11,previaje 3
+2022-10,La Rioja,Ciudad Autónoma de Buenos Aires,120,202,previaje 3
+2022-10,La Rioja,Córdoba,33,61,previaje 3
+2022-10,La Rioja,La Rioja,28,60,previaje 3
+2022-10,La Rioja,Mendoza,12,22,previaje 3
+2022-10,La Rioja,Misiones,22,40,previaje 3
+2022-10,La Rioja,Río Negro,12,23,previaje 3
+2022-10,La Rioja,Salta,6,16,previaje 3
+2022-10,La Rioja,San Juan,12,27,previaje 3
+2022-10,La Rioja,Santa Cruz,10,21,previaje 3
+2022-10,La Rioja,Santa Fe,3,3,previaje 3
+2022-10,La Rioja,Santiago del Estero,4,10,previaje 3
+2022-10,La Rioja,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",9,16,previaje 3
+2022-10,Mendoza,Buenos Aires,1097,2077,previaje 3
+2022-10,Mendoza,Catamarca,26,56,previaje 3
+2022-10,Mendoza,Chaco,6,7,previaje 3
+2022-10,Mendoza,Chubut,515,764,previaje 3
+2022-10,Mendoza,Ciudad Autónoma de Buenos Aires,2276,4326,previaje 3
+2022-10,Mendoza,Córdoba,411,863,previaje 3
+2022-10,Mendoza,Corrientes,32,71,previaje 3
+2022-10,Mendoza,Entre Ríos,67,103,previaje 3
+2022-10,Mendoza,Formosa,16,16,previaje 3
+2022-10,Mendoza,Jujuy,93,240,previaje 3
+2022-10,Mendoza,La Pampa,9,25,previaje 3
+2022-10,Mendoza,La Rioja,36,81,previaje 3
+2022-10,Mendoza,Mendoza,486,1144,previaje 3
+2022-10,Mendoza,Misiones,540,1082,previaje 3
+2022-10,Mendoza,Neuquén,190,361,previaje 3
+2022-10,Mendoza,Río Negro,509,935,previaje 3
+2022-10,Mendoza,Salta,539,1042,previaje 3
+2022-10,Mendoza,San Juan,28,61,previaje 3
+2022-10,Mendoza,San Luis,279,615,previaje 3
+2022-10,Mendoza,Santa Cruz,217,403,previaje 3
+2022-10,Mendoza,Santa Fe,52,86,previaje 3
+2022-10,Mendoza,Santiago del Estero,66,123,previaje 3
+2022-10,Mendoza,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",196,306,previaje 3
+2022-10,Mendoza,Tucumán,47,108,previaje 3
+2022-10,Misiones,Buenos Aires,128,234,previaje 3
+2022-10,Misiones,Catamarca,10,17,previaje 3
+2022-10,Misiones,Chubut,128,175,previaje 3
+2022-10,Misiones,Ciudad Autónoma de Buenos Aires,333,581,previaje 3
+2022-10,Misiones,Córdoba,373,473,previaje 3
+2022-10,Misiones,Corrientes,39,79,previaje 3
+2022-10,Misiones,Entre Ríos,51,90,previaje 3
+2022-10,Misiones,Jujuy,20,31,previaje 3
+2022-10,Misiones,La Pampa,9,22,previaje 3
+2022-10,Misiones,La Rioja,10,19,previaje 3
+2022-10,Misiones,Mendoza,49,110,previaje 3
+2022-10,Misiones,Misiones,118,303,previaje 3
+2022-10,Misiones,Neuquén,36,53,previaje 3
+2022-10,Misiones,Río Negro,188,258,previaje 3
+2022-10,Misiones,Salta,86,187,previaje 3
+2022-10,Misiones,San Juan,14,21,previaje 3
+2022-10,Misiones,San Luis,32,34,previaje 3
+2022-10,Misiones,Santa Cruz,80,117,previaje 3
+2022-10,Misiones,Santa Fe,19,32,previaje 3
+2022-10,Misiones,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",159,204,previaje 3
+2022-10,Misiones,Tucumán,36,56,previaje 3
+2022-10,Neuquén,Buenos Aires,325,619,previaje 3
+2022-10,Neuquén,Catamarca,4,6,previaje 3
+2022-10,Neuquén,Chaco,5,9,previaje 3
+2022-10,Neuquén,Chubut,136,382,previaje 3
+2022-10,Neuquén,Ciudad Autónoma de Buenos Aires,760,1369,previaje 3
+2022-10,Neuquén,Córdoba,174,285,previaje 3
+2022-10,Neuquén,Corrientes,56,79,previaje 3
+2022-10,Neuquén,Entre Ríos,24,53,previaje 3
+2022-10,Neuquén,Jujuy,98,177,previaje 3
+2022-10,Neuquén,La Rioja,4,14,previaje 3
+2022-10,Neuquén,Mendoza,97,218,previaje 3
+2022-10,Neuquén,Misiones,145,325,previaje 3
+2022-10,Neuquén,Neuquén,197,447,previaje 3
+2022-10,Neuquén,Río Negro,175,419,previaje 3
+2022-10,Neuquén,Salta,341,611,previaje 3
+2022-10,Neuquén,San Juan,7,19,previaje 3
+2022-10,Neuquén,San Luis,11,26,previaje 3
+2022-10,Neuquén,Santa Cruz,61,142,previaje 3
+2022-10,Neuquén,Santa Fe,34,55,previaje 3
+2022-10,Neuquén,Santiago del Estero,15,23,previaje 3
+2022-10,Neuquén,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",48,101,previaje 3
+2022-10,Neuquén,Tucumán,23,44,previaje 3
+2022-10,Río Negro,Buenos Aires,474,840,previaje 3
+2022-10,Río Negro,Catamarca,14,24,previaje 3
+2022-10,Río Negro,Chaco,8,17,previaje 3
+2022-10,Río Negro,Chubut,247,596,previaje 3
+2022-10,Río Negro,Ciudad Autónoma de Buenos Aires,750,1264,previaje 3
+2022-10,Río Negro,Córdoba,220,409,previaje 3
+2022-10,Río Negro,Corrientes,30,45,previaje 3
+2022-10,Río Negro,Entre Ríos,43,59,previaje 3
+2022-10,Río Negro,Jujuy,53,138,previaje 3
+2022-10,Río Negro,La Pampa,8,18,previaje 3
+2022-10,Río Negro,La Rioja,15,25,previaje 3
+2022-10,Río Negro,Mendoza,137,297,previaje 3
+2022-10,Río Negro,Misiones,155,356,previaje 3
+2022-10,Río Negro,Neuquén,188,503,previaje 3
+2022-10,Río Negro,Río Negro,294,680,previaje 3
+2022-10,Río Negro,Salta,166,345,previaje 3
+2022-10,Río Negro,San Juan,13,20,previaje 3
+2022-10,Río Negro,San Luis,46,69,previaje 3
+2022-10,Río Negro,Santa Cruz,72,174,previaje 3
+2022-10,Río Negro,Santa Fe,29,43,previaje 3
+2022-10,Río Negro,Santiago del Estero,55,80,previaje 3
+2022-10,Río Negro,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",29,56,previaje 3
+2022-10,Río Negro,Tucumán,34,66,previaje 3
+2022-10,Salta,Buenos Aires,329,583,previaje 3
+2022-10,Salta,Catamarca,19,44,previaje 3
+2022-10,Salta,Chaco,7,8,previaje 3
+2022-10,Salta,Chubut,37,63,previaje 3
+2022-10,Salta,Ciudad Autónoma de Buenos Aires,724,1303,previaje 3
+2022-10,Salta,Córdoba,237,447,previaje 3
+2022-10,Salta,Corrientes,8,27,previaje 3
+2022-10,Salta,Jujuy,170,364,previaje 3
+2022-10,Salta,La Rioja,6,13,previaje 3
+2022-10,Salta,Mendoza,109,270,previaje 3
+2022-10,Salta,Misiones,89,241,previaje 3
+2022-10,Salta,Neuquén,54,92,previaje 3
+2022-10,Salta,Río Negro,115,247,previaje 3
+2022-10,Salta,Salta,264,556,previaje 3
+2022-10,Salta,San Juan,4,8,previaje 3
+2022-10,Salta,San Luis,21,22,previaje 3
+2022-10,Salta,Santa Cruz,60,105,previaje 3
+2022-10,Salta,Santa Fe,24,58,previaje 3
+2022-10,Salta,Santiago del Estero,26,59,previaje 3
+2022-10,Salta,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",55,92,previaje 3
+2022-10,Salta,Tucumán,50,95,previaje 3
+2022-10,San Juan,Buenos Aires,235,414,previaje 3
+2022-10,San Juan,Catamarca,10,21,previaje 3
+2022-10,San Juan,Chubut,74,139,previaje 3
+2022-10,San Juan,Ciudad Autónoma de Buenos Aires,585,1113,previaje 3
+2022-10,San Juan,Córdoba,152,373,previaje 3
+2022-10,San Juan,Entre Ríos,22,29,previaje 3
+2022-10,San Juan,Jujuy,5,8,previaje 3
+2022-10,San Juan,La Pampa,4,13,previaje 3
+2022-10,San Juan,La Rioja,26,49,previaje 3
+2022-10,San Juan,Mendoza,59,164,previaje 3
+2022-10,San Juan,Misiones,94,160,previaje 3
+2022-10,San Juan,Neuquén,26,73,previaje 3
+2022-10,San Juan,Río Negro,87,174,previaje 3
+2022-10,San Juan,Salta,48,64,previaje 3
+2022-10,San Juan,San Juan,51,117,previaje 3
+2022-10,San Juan,San Luis,55,119,previaje 3
+2022-10,San Juan,Santa Cruz,57,83,previaje 3
+2022-10,San Juan,Santa Fe,13,17,previaje 3
+2022-10,San Juan,Santiago del Estero,25,44,previaje 3
+2022-10,San Juan,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",36,68,previaje 3
+2022-10,San Juan,Tucumán,4,8,previaje 3
+2022-10,San Luis,Buenos Aires,100,173,previaje 3
+2022-10,San Luis,Catamarca,10,17,previaje 3
+2022-10,San Luis,Chaco,3,5,previaje 3
+2022-10,San Luis,Chubut,81,120,previaje 3
+2022-10,San Luis,Ciudad Autónoma de Buenos Aires,265,450,previaje 3
+2022-10,San Luis,Córdoba,52,134,previaje 3
+2022-10,San Luis,Entre Ríos,12,20,previaje 3
+2022-10,San Luis,Jujuy,23,37,previaje 3
+2022-10,San Luis,La Rioja,56,65,previaje 3
+2022-10,San Luis,Mendoza,31,73,previaje 3
+2022-10,San Luis,Misiones,43,81,previaje 3
+2022-10,San Luis,Neuquén,14,32,previaje 3
+2022-10,San Luis,Río Negro,29,62,previaje 3
+2022-10,San Luis,Salta,85,120,previaje 3
+2022-10,San Luis,San Juan,8,22,previaje 3
+2022-10,San Luis,San Luis,61,127,previaje 3
+2022-10,San Luis,Santa Cruz,35,70,previaje 3
+2022-10,San Luis,Santa Fe,18,33,previaje 3
+2022-10,San Luis,Santiago del Estero,4,6,previaje 3
+2022-10,San Luis,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",27,43,previaje 3
+2022-10,San Luis,Tucumán,4,8,previaje 3
+2022-10,Santa Cruz,Buenos Aires,124,200,previaje 3
+2022-10,Santa Cruz,Catamarca,6,18,previaje 3
+2022-10,Santa Cruz,Chaco,6,10,previaje 3
+2022-10,Santa Cruz,Chubut,41,90,previaje 3
+2022-10,Santa Cruz,Ciudad Autónoma de Buenos Aires,288,466,previaje 3
+2022-10,Santa Cruz,Córdoba,76,136,previaje 3
+2022-10,Santa Cruz,Corrientes,9,19,previaje 3
+2022-10,Santa Cruz,Entre Ríos,11,29,previaje 3
+2022-10,Santa Cruz,Formosa,8,13,previaje 3
+2022-10,Santa Cruz,Jujuy,8,11,previaje 3
+2022-10,Santa Cruz,La Rioja,5,14,previaje 3
+2022-10,Santa Cruz,Mendoza,26,49,previaje 3
+2022-10,Santa Cruz,Misiones,12,21,previaje 3
+2022-10,Santa Cruz,Neuquén,6,7,previaje 3
+2022-10,Santa Cruz,Río Negro,14,30,previaje 3
+2022-10,Santa Cruz,Salta,31,46,previaje 3
+2022-10,Santa Cruz,San Juan,5,8,previaje 3
+2022-10,Santa Cruz,Santa Cruz,192,382,previaje 3
+2022-10,Santa Cruz,Santa Fe,11,20,previaje 3
+2022-10,Santa Cruz,Santiago del Estero,11,16,previaje 3
+2022-10,Santa Cruz,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",113,184,previaje 3
+2022-10,Santa Cruz,Tucumán,5,7,previaje 3
+2022-10,Santa Fe,Buenos Aires,687,1506,previaje 3
+2022-10,Santa Fe,Catamarca,507,837,previaje 3
+2022-10,Santa Fe,Chaco,11,23,previaje 3
+2022-10,Santa Fe,Chubut,1643,3014,previaje 3
+2022-10,Santa Fe,Ciudad Autónoma de Buenos Aires,1145,2523,previaje 3
+2022-10,Santa Fe,Córdoba,1527,3772,previaje 3
+2022-10,Santa Fe,Corrientes,111,284,previaje 3
+2022-10,Santa Fe,Entre Ríos,320,742,previaje 3
+2022-10,Santa Fe,Formosa,8,14,previaje 3
+2022-10,Santa Fe,Jujuy,535,1175,previaje 3
+2022-10,Santa Fe,La Pampa,33,85,previaje 3
+2022-10,Santa Fe,La Rioja,374,668,previaje 3
+2022-10,Santa Fe,Mendoza,1369,2810,previaje 3
+2022-10,Santa Fe,Misiones,903,2147,previaje 3
+2022-10,Santa Fe,Neuquén,512,1209,previaje 3
+2022-10,Santa Fe,Río Negro,1713,3551,previaje 3
+2022-10,Santa Fe,Salta,1433,2807,previaje 3
+2022-10,Santa Fe,San Juan,163,290,previaje 3
+2022-10,Santa Fe,San Luis,427,824,previaje 3
+2022-10,Santa Fe,Santa Cruz,1459,2769,previaje 3
+2022-10,Santa Fe,Santa Fe,242,594,previaje 3
+2022-10,Santa Fe,Santiago del Estero,188,372,previaje 3
+2022-10,Santa Fe,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1180,2136,previaje 3
+2022-10,Santa Fe,Tucumán,296,588,previaje 3
+2022-10,Santiago del Estero,Buenos Aires,99,198,previaje 3
+2022-10,Santiago del Estero,Catamarca,4,7,previaje 3
+2022-10,Santiago del Estero,Chubut,31,43,previaje 3
+2022-10,Santiago del Estero,Ciudad Autónoma de Buenos Aires,217,409,previaje 3
+2022-10,Santiago del Estero,Córdoba,46,109,previaje 3
+2022-10,Santiago del Estero,Corrientes,9,12,previaje 3
+2022-10,Santiago del Estero,Jujuy,17,35,previaje 3
+2022-10,Santiago del Estero,La Rioja,14,34,previaje 3
+2022-10,Santiago del Estero,Mendoza,46,83,previaje 3
+2022-10,Santiago del Estero,Misiones,15,26,previaje 3
+2022-10,Santiago del Estero,Neuquén,9,18,previaje 3
+2022-10,Santiago del Estero,Río Negro,29,54,previaje 3
+2022-10,Santiago del Estero,Salta,21,44,previaje 3
+2022-10,Santiago del Estero,San Luis,12,25,previaje 3
+2022-10,Santiago del Estero,Santa Cruz,34,61,previaje 3
+2022-10,Santiago del Estero,Santa Fe,3,4,previaje 3
+2022-10,Santiago del Estero,Santiago del Estero,40,140,previaje 3
+2022-10,Santiago del Estero,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",44,56,previaje 3
+2022-10,Santiago del Estero,Tucumán,23,62,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Buenos Aires,257,383,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Catamarca,7,11,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Chaco,9,13,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Chubut,47,113,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Ciudad Autónoma de Buenos Aires,490,743,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Córdoba,106,159,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Corrientes,15,30,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Entre Ríos,13,20,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Formosa,6,8,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Jujuy,34,57,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mendoza,47,104,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Misiones,36,70,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Neuquén,13,19,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Río Negro,15,29,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Salta,35,64,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",San Juan,19,26,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",San Luis,8,16,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santa Cruz,104,234,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santa Fe,28,43,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santiago del Estero,7,11,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur","Tierra del Fuego, Antártida e Islas del Atlántico Sur",112,261,previaje 3
+2022-10,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Tucumán,12,25,previaje 3
+2022-10,Tucumán,Buenos Aires,763,1256,previaje 3
+2022-10,Tucumán,Catamarca,16,25,previaje 3
+2022-10,Tucumán,Chaco,7,11,previaje 3
+2022-10,Tucumán,Chubut,64,111,previaje 3
+2022-10,Tucumán,Ciudad Autónoma de Buenos Aires,1395,2503,previaje 3
+2022-10,Tucumán,Córdoba,407,671,previaje 3
+2022-10,Tucumán,Corrientes,4,9,previaje 3
+2022-10,Tucumán,Entre Ríos,52,66,previaje 3
+2022-10,Tucumán,Jujuy,73,145,previaje 3
+2022-10,Tucumán,La Rioja,9,17,previaje 3
+2022-10,Tucumán,Mendoza,144,222,previaje 3
+2022-10,Tucumán,Misiones,206,402,previaje 3
+2022-10,Tucumán,Neuquén,30,45,previaje 3
+2022-10,Tucumán,Río Negro,180,354,previaje 3
+2022-10,Tucumán,Salta,167,352,previaje 3
+2022-10,Tucumán,San Juan,16,20,previaje 3
+2022-10,Tucumán,San Luis,54,64,previaje 3
+2022-10,Tucumán,Santa Cruz,125,235,previaje 3
+2022-10,Tucumán,Santa Fe,40,58,previaje 3
+2022-10,Tucumán,Santiago del Estero,82,233,previaje 3
+2022-10,Tucumán,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",130,196,previaje 3
+2022-10,Tucumán,Tucumán,189,445,previaje 3
+2022-11,Buenos Aires,Buenos Aires,9529,23041,previaje 3
+2022-11,Buenos Aires,Catamarca,622,1322,previaje 3
+2022-11,Buenos Aires,Chaco,47,73,previaje 3
+2022-11,Buenos Aires,Chubut,2898,6020,previaje 3
+2022-11,Buenos Aires,Ciudad Autónoma de Buenos Aires,1649,3264,previaje 3
+2022-11,Buenos Aires,Córdoba,4557,9222,previaje 3
+2022-11,Buenos Aires,Corrientes,412,958,previaje 3
+2022-11,Buenos Aires,Entre Ríos,2791,6327,previaje 3
+2022-11,Buenos Aires,Formosa,34,54,previaje 3
+2022-11,Buenos Aires,Jujuy,2037,4506,previaje 3
+2022-11,Buenos Aires,La Pampa,63,154,previaje 3
+2022-11,Buenos Aires,La Rioja,746,1419,previaje 3
+2022-11,Buenos Aires,Mendoza,6333,12479,previaje 3
+2022-11,Buenos Aires,Misiones,6516,15222,previaje 3
+2022-11,Buenos Aires,Neuquén,2716,5863,previaje 3
+2022-11,Buenos Aires,Río Negro,6615,14147,previaje 3
+2022-11,Buenos Aires,Salta,5049,10439,previaje 3
+2022-11,Buenos Aires,San Juan,662,1217,previaje 3
+2022-11,Buenos Aires,San Luis,1524,2926,previaje 3
+2022-11,Buenos Aires,Santa Cruz,5478,10654,previaje 3
+2022-11,Buenos Aires,Santa Fe,327,814,previaje 3
+2022-11,Buenos Aires,Santiago del Estero,507,1086,previaje 3
+2022-11,Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",4585,8550,previaje 3
+2022-11,Buenos Aires,Tucumán,1023,2039,previaje 3
+2022-11,Catamarca,Buenos Aires,36,61,previaje 3
+2022-11,Catamarca,Catamarca,70,120,previaje 3
+2022-11,Catamarca,Chubut,6,10,previaje 3
+2022-11,Catamarca,Ciudad Autónoma de Buenos Aires,113,211,previaje 3
+2022-11,Catamarca,Córdoba,51,113,previaje 3
+2022-11,Catamarca,Entre Ríos,3,8,previaje 3
+2022-11,Catamarca,Jujuy,7,16,previaje 3
+2022-11,Catamarca,La Rioja,15,25,previaje 3
+2022-11,Catamarca,Mendoza,10,15,previaje 3
+2022-11,Catamarca,Misiones,16,37,previaje 3
+2022-11,Catamarca,Neuquén,3,5,previaje 3
+2022-11,Catamarca,Río Negro,10,20,previaje 3
+2022-11,Catamarca,Salta,22,48,previaje 3
+2022-11,Catamarca,San Juan,3,8,previaje 3
+2022-11,Catamarca,San Luis,6,7,previaje 3
+2022-11,Catamarca,Santa Cruz,12,23,previaje 3
+2022-11,Catamarca,Santa Fe,5,7,previaje 3
+2022-11,Catamarca,Santiago del Estero,6,22,previaje 3
+2022-11,Catamarca,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",9,15,previaje 3
+2022-11,Catamarca,Tucumán,6,9,previaje 3
+2022-11,Chaco,Buenos Aires,211,361,previaje 3
+2022-11,Chaco,Catamarca,5,11,previaje 3
+2022-11,Chaco,Chaco,19,31,previaje 3
+2022-11,Chaco,Chubut,44,93,previaje 3
+2022-11,Chaco,Ciudad Autónoma de Buenos Aires,332,615,previaje 3
+2022-11,Chaco,Córdoba,178,307,previaje 3
+2022-11,Chaco,Corrientes,17,35,previaje 3
+2022-11,Chaco,Entre Ríos,16,39,previaje 3
+2022-11,Chaco,Jujuy,38,57,previaje 3
+2022-11,Chaco,La Rioja,9,13,previaje 3
+2022-11,Chaco,Mendoza,69,178,previaje 3
+2022-11,Chaco,Misiones,91,203,previaje 3
+2022-11,Chaco,Neuquén,21,43,previaje 3
+2022-11,Chaco,Río Negro,117,220,previaje 3
+2022-11,Chaco,Salta,176,290,previaje 3
+2022-11,Chaco,San Luis,57,77,previaje 3
+2022-11,Chaco,Santa Cruz,71,132,previaje 3
+2022-11,Chaco,Santa Fe,10,25,previaje 3
+2022-11,Chaco,Santiago del Estero,11,30,previaje 3
+2022-11,Chaco,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",59,108,previaje 3
+2022-11,Chaco,Tucumán,11,24,previaje 3
+2022-11,Chubut,Buenos Aires,308,605,previaje 3
+2022-11,Chubut,Catamarca,8,16,previaje 3
+2022-11,Chubut,Chaco,5,7,previaje 3
+2022-11,Chubut,Chubut,198,457,previaje 3
+2022-11,Chubut,Ciudad Autónoma de Buenos Aires,726,1262,previaje 3
+2022-11,Chubut,Córdoba,138,248,previaje 3
+2022-11,Chubut,Corrientes,5,5,previaje 3
+2022-11,Chubut,Entre Ríos,51,102,previaje 3
+2022-11,Chubut,Jujuy,28,56,previaje 3
+2022-11,Chubut,La Pampa,5,12,previaje 3
+2022-11,Chubut,La Rioja,8,13,previaje 3
+2022-11,Chubut,Mendoza,70,108,previaje 3
+2022-11,Chubut,Misiones,81,167,previaje 3
+2022-11,Chubut,Neuquén,63,143,previaje 3
+2022-11,Chubut,Río Negro,110,276,previaje 3
+2022-11,Chubut,Salta,85,170,previaje 3
+2022-11,Chubut,San Juan,6,11,previaje 3
+2022-11,Chubut,San Luis,8,15,previaje 3
+2022-11,Chubut,Santa Cruz,142,278,previaje 3
+2022-11,Chubut,Santa Fe,17,23,previaje 3
+2022-11,Chubut,Santiago del Estero,16,31,previaje 3
+2022-11,Chubut,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",126,180,previaje 3
+2022-11,Chubut,Tucumán,18,28,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Buenos Aires,7381,15926,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Catamarca,448,773,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Chaco,76,110,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Chubut,2056,4193,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,616,1160,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Córdoba,2663,4869,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Corrientes,430,779,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Entre Ríos,1625,2996,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Formosa,53,92,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Jujuy,1666,3506,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,La Pampa,45,86,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,La Rioja,386,757,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Mendoza,4436,8636,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Misiones,4032,9474,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Neuquén,2023,3960,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Río Negro,4692,9431,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Salta,3383,6752,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,San Juan,618,1241,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,San Luis,540,1053,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Santa Cruz,3637,6942,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Santa Fe,330,682,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Santiago del Estero,312,577,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2985,5669,previaje 3
+2022-11,Ciudad Autónoma de Buenos Aires,Tucumán,745,1395,previaje 3
+2022-11,Córdoba,Buenos Aires,2137,4611,previaje 3
+2022-11,Córdoba,Catamarca,258,389,previaje 3
+2022-11,Córdoba,Chaco,22,33,previaje 3
+2022-11,Córdoba,Chubut,812,1403,previaje 3
+2022-11,Córdoba,Ciudad Autónoma de Buenos Aires,3465,6730,previaje 3
+2022-11,Córdoba,Córdoba,2670,6816,previaje 3
+2022-11,Córdoba,Corrientes,145,313,previaje 3
+2022-11,Córdoba,Entre Ríos,272,567,previaje 3
+2022-11,Córdoba,Formosa,13,13,previaje 3
+2022-11,Córdoba,Jujuy,467,908,previaje 3
+2022-11,Córdoba,La Pampa,21,37,previaje 3
+2022-11,Córdoba,La Rioja,239,523,previaje 3
+2022-11,Córdoba,Mendoza,1473,2757,previaje 3
+2022-11,Córdoba,Misiones,1732,3477,previaje 3
+2022-11,Córdoba,Neuquén,504,1178,previaje 3
+2022-11,Córdoba,Río Negro,2138,4184,previaje 3
+2022-11,Córdoba,Salta,1202,2193,previaje 3
+2022-11,Córdoba,San Juan,93,179,previaje 3
+2022-11,Córdoba,San Luis,326,825,previaje 3
+2022-11,Córdoba,Santa Cruz,1626,2968,previaje 3
+2022-11,Córdoba,Santa Fe,132,277,previaje 3
+2022-11,Córdoba,Santiago del Estero,242,613,previaje 3
+2022-11,Córdoba,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1244,2102,previaje 3
+2022-11,Córdoba,Tucumán,146,286,previaje 3
+2022-11,Corrientes,Buenos Aires,156,305,previaje 3
+2022-11,Corrientes,Chaco,13,23,previaje 3
+2022-11,Corrientes,Chubut,20,43,previaje 3
+2022-11,Corrientes,Ciudad Autónoma de Buenos Aires,429,734,previaje 3
+2022-11,Corrientes,Córdoba,125,165,previaje 3
+2022-11,Corrientes,Corrientes,77,198,previaje 3
+2022-11,Corrientes,Entre Ríos,38,90,previaje 3
+2022-11,Corrientes,Jujuy,20,33,previaje 3
+2022-11,Corrientes,La Rioja,33,40,previaje 3
+2022-11,Corrientes,Mendoza,117,172,previaje 3
+2022-11,Corrientes,Misiones,100,187,previaje 3
+2022-11,Corrientes,Neuquén,27,69,previaje 3
+2022-11,Corrientes,Río Negro,84,167,previaje 3
+2022-11,Corrientes,Salta,89,158,previaje 3
+2022-11,Corrientes,San Juan,22,27,previaje 3
+2022-11,Corrientes,San Luis,4,9,previaje 3
+2022-11,Corrientes,Santa Cruz,34,98,previaje 3
+2022-11,Corrientes,Santa Fe,6,11,previaje 3
+2022-11,Corrientes,Santiago del Estero,3,11,previaje 3
+2022-11,Corrientes,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",36,48,previaje 3
+2022-11,Corrientes,Tucumán,5,12,previaje 3
+2022-11,Entre Ríos,Buenos Aires,179,382,previaje 3
+2022-11,Entre Ríos,Catamarca,86,149,previaje 3
+2022-11,Entre Ríos,Chaco,5,14,previaje 3
+2022-11,Entre Ríos,Chubut,236,384,previaje 3
+2022-11,Entre Ríos,Ciudad Autónoma de Buenos Aires,244,527,previaje 3
+2022-11,Entre Ríos,Córdoba,420,864,previaje 3
+2022-11,Entre Ríos,Corrientes,38,111,previaje 3
+2022-11,Entre Ríos,Entre Ríos,161,399,previaje 3
+2022-11,Entre Ríos,Jujuy,128,268,previaje 3
+2022-11,Entre Ríos,La Rioja,120,188,previaje 3
+2022-11,Entre Ríos,Mendoza,284,491,previaje 3
+2022-11,Entre Ríos,Misiones,242,499,previaje 3
+2022-11,Entre Ríos,Neuquén,76,136,previaje 3
+2022-11,Entre Ríos,Río Negro,336,638,previaje 3
+2022-11,Entre Ríos,Salta,339,560,previaje 3
+2022-11,Entre Ríos,San Juan,73,100,previaje 3
+2022-11,Entre Ríos,San Luis,82,158,previaje 3
+2022-11,Entre Ríos,Santa Cruz,269,492,previaje 3
+2022-11,Entre Ríos,Santa Fe,20,54,previaje 3
+2022-11,Entre Ríos,Santiago del Estero,7,19,previaje 3
+2022-11,Entre Ríos,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",241,425,previaje 3
+2022-11,Entre Ríos,Tucumán,50,85,previaje 3
+2022-11,Formosa,Buenos Aires,26,42,previaje 3
+2022-11,Formosa,Catamarca,3,11,previaje 3
+2022-11,Formosa,Chaco,3,4,previaje 3
+2022-11,Formosa,Ciudad Autónoma de Buenos Aires,77,124,previaje 3
+2022-11,Formosa,Córdoba,24,49,previaje 3
+2022-11,Formosa,Corrientes,7,20,previaje 3
+2022-11,Formosa,Entre Ríos,5,10,previaje 3
+2022-11,Formosa,Formosa,17,21,previaje 3
+2022-11,Formosa,La Rioja,21,31,previaje 3
+2022-11,Formosa,Mendoza,5,9,previaje 3
+2022-11,Formosa,Misiones,6,8,previaje 3
+2022-11,Formosa,Neuquén,6,12,previaje 3
+2022-11,Formosa,Río Negro,50,63,previaje 3
+2022-11,Formosa,Salta,36,60,previaje 3
+2022-11,Formosa,Santa Cruz,37,49,previaje 3
+2022-11,Formosa,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",24,41,previaje 3
+2022-11,Jujuy,Buenos Aires,105,207,previaje 3
+2022-11,Jujuy,Chubut,5,7,previaje 3
+2022-11,Jujuy,Ciudad Autónoma de Buenos Aires,270,491,previaje 3
+2022-11,Jujuy,Córdoba,86,140,previaje 3
+2022-11,Jujuy,Corrientes,6,13,previaje 3
+2022-11,Jujuy,Entre Ríos,4,7,previaje 3
+2022-11,Jujuy,Jujuy,85,219,previaje 3
+2022-11,Jujuy,La Rioja,3,9,previaje 3
+2022-11,Jujuy,Mendoza,20,37,previaje 3
+2022-11,Jujuy,Misiones,44,69,previaje 3
+2022-11,Jujuy,Neuquén,36,44,previaje 3
+2022-11,Jujuy,Río Negro,69,124,previaje 3
+2022-11,Jujuy,Salta,90,214,previaje 3
+2022-11,Jujuy,San Luis,4,5,previaje 3
+2022-11,Jujuy,Santa Cruz,21,47,previaje 3
+2022-11,Jujuy,Santa Fe,5,10,previaje 3
+2022-11,Jujuy,Santiago del Estero,10,25,previaje 3
+2022-11,Jujuy,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",28,61,previaje 3
+2022-11,Jujuy,Tucumán,19,44,previaje 3
+2022-11,La Pampa,Buenos Aires,59,134,previaje 3
+2022-11,La Pampa,Catamarca,42,45,previaje 3
+2022-11,La Pampa,Chubut,68,119,previaje 3
+2022-11,La Pampa,Ciudad Autónoma de Buenos Aires,79,121,previaje 3
+2022-11,La Pampa,Córdoba,53,106,previaje 3
+2022-11,La Pampa,Corrientes,37,51,previaje 3
+2022-11,La Pampa,Entre Ríos,8,14,previaje 3
+2022-11,La Pampa,Jujuy,15,24,previaje 3
+2022-11,La Pampa,La Pampa,20,39,previaje 3
+2022-11,La Pampa,La Rioja,73,75,previaje 3
+2022-11,La Pampa,Mendoza,53,113,previaje 3
+2022-11,La Pampa,Misiones,51,112,previaje 3
+2022-11,La Pampa,Neuquén,52,145,previaje 3
+2022-11,La Pampa,Río Negro,82,159,previaje 3
+2022-11,La Pampa,Salta,26,50,previaje 3
+2022-11,La Pampa,San Juan,5,14,previaje 3
+2022-11,La Pampa,San Luis,38,64,previaje 3
+2022-11,La Pampa,Santa Cruz,130,203,previaje 3
+2022-11,La Pampa,Santiago del Estero,3,6,previaje 3
+2022-11,La Pampa,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",96,146,previaje 3
+2022-11,La Pampa,Tucumán,5,13,previaje 3
+2022-11,La Rioja,Buenos Aires,33,82,previaje 3
+2022-11,La Rioja,Catamarca,26,60,previaje 3
+2022-11,La Rioja,Ciudad Autónoma de Buenos Aires,97,154,previaje 3
+2022-11,La Rioja,Córdoba,60,123,previaje 3
+2022-11,La Rioja,Corrientes,5,14,previaje 3
+2022-11,La Rioja,Entre Ríos,9,15,previaje 3
+2022-11,La Rioja,La Rioja,45,88,previaje 3
+2022-11,La Rioja,Mendoza,9,14,previaje 3
+2022-11,La Rioja,Misiones,27,55,previaje 3
+2022-11,La Rioja,Neuquén,5,8,previaje 3
+2022-11,La Rioja,Río Negro,18,24,previaje 3
+2022-11,La Rioja,Salta,20,50,previaje 3
+2022-11,La Rioja,San Juan,7,16,previaje 3
+2022-11,La Rioja,San Luis,7,18,previaje 3
+2022-11,La Rioja,Santa Cruz,13,20,previaje 3
+2022-11,La Rioja,Santa Fe,3,6,previaje 3
+2022-11,La Rioja,Santiago del Estero,3,8,previaje 3
+2022-11,La Rioja,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",5,7,previaje 3
+2022-11,La Rioja,Tucumán,3,7,previaje 3
+2022-11,Mendoza,Buenos Aires,1426,2622,previaje 3
+2022-11,Mendoza,Catamarca,6,10,previaje 3
+2022-11,Mendoza,Chaco,6,12,previaje 3
+2022-11,Mendoza,Chubut,602,810,previaje 3
+2022-11,Mendoza,Ciudad Autónoma de Buenos Aires,2340,4438,previaje 3
+2022-11,Mendoza,Córdoba,568,1318,previaje 3
+2022-11,Mendoza,Corrientes,17,36,previaje 3
+2022-11,Mendoza,Entre Ríos,59,101,previaje 3
+2022-11,Mendoza,Jujuy,109,200,previaje 3
+2022-11,Mendoza,La Rioja,9,28,previaje 3
+2022-11,Mendoza,Mendoza,732,1701,previaje 3
+2022-11,Mendoza,Misiones,555,982,previaje 3
+2022-11,Mendoza,Neuquén,260,689,previaje 3
+2022-11,Mendoza,Río Negro,670,1365,previaje 3
+2022-11,Mendoza,Salta,537,1003,previaje 3
+2022-11,Mendoza,San Juan,26,68,previaje 3
+2022-11,Mendoza,San Luis,362,843,previaje 3
+2022-11,Mendoza,Santa Cruz,304,521,previaje 3
+2022-11,Mendoza,Santa Fe,59,115,previaje 3
+2022-11,Mendoza,Santiago del Estero,32,59,previaje 3
+2022-11,Mendoza,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",282,441,previaje 3
+2022-11,Mendoza,Tucumán,47,79,previaje 3
+2022-11,Misiones,Buenos Aires,134,254,previaje 3
+2022-11,Misiones,Catamarca,20,28,previaje 3
+2022-11,Misiones,Chaco,4,4,previaje 3
+2022-11,Misiones,Chubut,25,91,previaje 3
+2022-11,Misiones,Ciudad Autónoma de Buenos Aires,316,586,previaje 3
+2022-11,Misiones,Córdoba,233,299,previaje 3
+2022-11,Misiones,Corrientes,35,85,previaje 3
+2022-11,Misiones,Entre Ríos,34,71,previaje 3
+2022-11,Misiones,Jujuy,24,42,previaje 3
+2022-11,Misiones,La Rioja,23,27,previaje 3
+2022-11,Misiones,Mendoza,107,150,previaje 3
+2022-11,Misiones,Misiones,144,364,previaje 3
+2022-11,Misiones,Neuquén,40,80,previaje 3
+2022-11,Misiones,Río Negro,100,189,previaje 3
+2022-11,Misiones,Salta,79,148,previaje 3
+2022-11,Misiones,San Juan,21,30,previaje 3
+2022-11,Misiones,San Luis,18,29,previaje 3
+2022-11,Misiones,Santa Cruz,80,120,previaje 3
+2022-11,Misiones,Santa Fe,17,31,previaje 3
+2022-11,Misiones,Santiago del Estero,14,21,previaje 3
+2022-11,Misiones,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",118,159,previaje 3
+2022-11,Misiones,Tucumán,13,27,previaje 3
+2022-11,Neuquén,Buenos Aires,364,670,previaje 3
+2022-11,Neuquén,Chaco,8,10,previaje 3
+2022-11,Neuquén,Chubut,84,189,previaje 3
+2022-11,Neuquén,Ciudad Autónoma de Buenos Aires,863,1531,previaje 3
+2022-11,Neuquén,Córdoba,137,231,previaje 3
+2022-11,Neuquén,Corrientes,16,23,previaje 3
+2022-11,Neuquén,Entre Ríos,13,26,previaje 3
+2022-11,Neuquén,Jujuy,60,105,previaje 3
+2022-11,Neuquén,La Pampa,11,18,previaje 3
+2022-11,Neuquén,La Rioja,3,4,previaje 3
+2022-11,Neuquén,Mendoza,166,273,previaje 3
+2022-11,Neuquén,Misiones,137,246,previaje 3
+2022-11,Neuquén,Neuquén,299,806,previaje 3
+2022-11,Neuquén,Río Negro,190,499,previaje 3
+2022-11,Neuquén,Salta,225,425,previaje 3
+2022-11,Neuquén,San Luis,15,24,previaje 3
+2022-11,Neuquén,Santa Cruz,60,113,previaje 3
+2022-11,Neuquén,Santa Fe,24,44,previaje 3
+2022-11,Neuquén,Santiago del Estero,6,11,previaje 3
+2022-11,Neuquén,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",77,176,previaje 3
+2022-11,Neuquén,Tucumán,11,23,previaje 3
+2022-11,Río Negro,Buenos Aires,481,867,previaje 3
+2022-11,Río Negro,Catamarca,6,8,previaje 3
+2022-11,Río Negro,Chubut,163,319,previaje 3
+2022-11,Río Negro,Ciudad Autónoma de Buenos Aires,821,1384,previaje 3
+2022-11,Río Negro,Córdoba,188,314,previaje 3
+2022-11,Río Negro,Corrientes,14,27,previaje 3
+2022-11,Río Negro,Entre Ríos,31,63,previaje 3
+2022-11,Río Negro,Formosa,3,5,previaje 3
+2022-11,Río Negro,Jujuy,40,83,previaje 3
+2022-11,Río Negro,La Pampa,8,14,previaje 3
+2022-11,Río Negro,Mendoza,171,300,previaje 3
+2022-11,Río Negro,Misiones,132,255,previaje 3
+2022-11,Río Negro,Neuquén,262,712,previaje 3
+2022-11,Río Negro,Río Negro,348,863,previaje 3
+2022-11,Río Negro,Salta,174,321,previaje 3
+2022-11,Río Negro,San Juan,10,19,previaje 3
+2022-11,Río Negro,San Luis,32,59,previaje 3
+2022-11,Río Negro,Santa Cruz,104,220,previaje 3
+2022-11,Río Negro,Santa Fe,35,50,previaje 3
+2022-11,Río Negro,Santiago del Estero,10,17,previaje 3
+2022-11,Río Negro,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",78,138,previaje 3
+2022-11,Río Negro,Tucumán,21,43,previaje 3
+2022-11,Salta,Buenos Aires,380,686,previaje 3
+2022-11,Salta,Catamarca,12,14,previaje 3
+2022-11,Salta,Chubut,50,82,previaje 3
+2022-11,Salta,Ciudad Autónoma de Buenos Aires,810,1489,previaje 3
+2022-11,Salta,Córdoba,133,234,previaje 3
+2022-11,Salta,Corrientes,18,47,previaje 3
+2022-11,Salta,Entre Ríos,16,22,previaje 3
+2022-11,Salta,Jujuy,168,402,previaje 3
+2022-11,Salta,La Rioja,4,10,previaje 3
+2022-11,Salta,Mendoza,100,215,previaje 3
+2022-11,Salta,Misiones,81,183,previaje 3
+2022-11,Salta,Neuquén,70,132,previaje 3
+2022-11,Salta,Río Negro,154,273,previaje 3
+2022-11,Salta,Salta,335,821,previaje 3
+2022-11,Salta,San Juan,4,7,previaje 3
+2022-11,Salta,San Luis,44,63,previaje 3
+2022-11,Salta,Santa Cruz,55,108,previaje 3
+2022-11,Salta,Santa Fe,21,42,previaje 3
+2022-11,Salta,Santiago del Estero,36,100,previaje 3
+2022-11,Salta,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",48,85,previaje 3
+2022-11,Salta,Tucumán,52,108,previaje 3
+2022-11,San Juan,Buenos Aires,337,610,previaje 3
+2022-11,San Juan,Catamarca,10,28,previaje 3
+2022-11,San Juan,Chubut,23,48,previaje 3
+2022-11,San Juan,Ciudad Autónoma de Buenos Aires,499,943,previaje 3
+2022-11,San Juan,Córdoba,146,293,previaje 3
+2022-11,San Juan,Corrientes,7,11,previaje 3
+2022-11,San Juan,Entre Ríos,9,17,previaje 3
+2022-11,San Juan,Jujuy,11,19,previaje 3
+2022-11,San Juan,La Rioja,44,74,previaje 3
+2022-11,San Juan,Mendoza,61,132,previaje 3
+2022-11,San Juan,Misiones,98,171,previaje 3
+2022-11,San Juan,Neuquén,50,129,previaje 3
+2022-11,San Juan,Río Negro,101,228,previaje 3
+2022-11,San Juan,Salta,88,161,previaje 3
+2022-11,San Juan,San Juan,81,179,previaje 3
+2022-11,San Juan,San Luis,79,165,previaje 3
+2022-11,San Juan,Santa Cruz,54,78,previaje 3
+2022-11,San Juan,Santa Fe,7,12,previaje 3
+2022-11,San Juan,Santiago del Estero,6,14,previaje 3
+2022-11,San Juan,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",75,112,previaje 3
+2022-11,San Juan,Tucumán,4,13,previaje 3
+2022-11,San Luis,Buenos Aires,105,217,previaje 3
+2022-11,San Luis,Chubut,31,55,previaje 3
+2022-11,San Luis,Ciudad Autónoma de Buenos Aires,155,292,previaje 3
+2022-11,San Luis,Córdoba,108,195,previaje 3
+2022-11,San Luis,Corrientes,6,10,previaje 3
+2022-11,San Luis,Entre Ríos,17,29,previaje 3
+2022-11,San Luis,Jujuy,7,13,previaje 3
+2022-11,San Luis,La Pampa,4,8,previaje 3
+2022-11,San Luis,La Rioja,4,7,previaje 3
+2022-11,San Luis,Mendoza,52,144,previaje 3
+2022-11,San Luis,Misiones,69,127,previaje 3
+2022-11,San Luis,Neuquén,19,39,previaje 3
+2022-11,San Luis,Río Negro,55,111,previaje 3
+2022-11,San Luis,Salta,46,70,previaje 3
+2022-11,San Luis,San Juan,4,6,previaje 3
+2022-11,San Luis,San Luis,47,117,previaje 3
+2022-11,San Luis,Santa Cruz,24,46,previaje 3
+2022-11,San Luis,Santa Fe,9,19,previaje 3
+2022-11,San Luis,Santiago del Estero,6,8,previaje 3
+2022-11,San Luis,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",32,58,previaje 3
+2022-11,San Luis,Tucumán,9,19,previaje 3
+2022-11,Santa Cruz,Buenos Aires,121,188,previaje 3
+2022-11,Santa Cruz,Chubut,35,84,previaje 3
+2022-11,Santa Cruz,Ciudad Autónoma de Buenos Aires,269,425,previaje 3
+2022-11,Santa Cruz,Córdoba,65,109,previaje 3
+2022-11,Santa Cruz,Corrientes,4,6,previaje 3
+2022-11,Santa Cruz,Entre Ríos,6,6,previaje 3
+2022-11,Santa Cruz,Formosa,6,12,previaje 3
+2022-11,Santa Cruz,Jujuy,3,5,previaje 3
+2022-11,Santa Cruz,La Pampa,6,10,previaje 3
+2022-11,Santa Cruz,La Rioja,3,5,previaje 3
+2022-11,Santa Cruz,Mendoza,19,29,previaje 3
+2022-11,Santa Cruz,Misiones,17,40,previaje 3
+2022-11,Santa Cruz,Neuquén,10,18,previaje 3
+2022-11,Santa Cruz,Río Negro,12,30,previaje 3
+2022-11,Santa Cruz,Salta,18,25,previaje 3
+2022-11,Santa Cruz,San Juan,10,14,previaje 3
+2022-11,Santa Cruz,Santa Cruz,178,379,previaje 3
+2022-11,Santa Cruz,Santa Fe,5,6,previaje 3
+2022-11,Santa Cruz,Santiago del Estero,3,6,previaje 3
+2022-11,Santa Cruz,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",133,277,previaje 3
+2022-11,Santa Fe,Buenos Aires,1923,4217,previaje 3
+2022-11,Santa Fe,Catamarca,361,537,previaje 3
+2022-11,Santa Fe,Chaco,4,8,previaje 3
+2022-11,Santa Fe,Chubut,1006,1830,previaje 3
+2022-11,Santa Fe,Ciudad Autónoma de Buenos Aires,1162,2550,previaje 3
+2022-11,Santa Fe,Córdoba,1658,4034,previaje 3
+2022-11,Santa Fe,Corrientes,104,222,previaje 3
+2022-11,Santa Fe,Entre Ríos,400,923,previaje 3
+2022-11,Santa Fe,Formosa,7,9,previaje 3
+2022-11,Santa Fe,Jujuy,404,836,previaje 3
+2022-11,Santa Fe,La Pampa,20,44,previaje 3
+2022-11,Santa Fe,La Rioja,360,576,previaje 3
+2022-11,Santa Fe,Mendoza,1529,3115,previaje 3
+2022-11,Santa Fe,Misiones,1088,2325,previaje 3
+2022-11,Santa Fe,Neuquén,458,958,previaje 3
+2022-11,Santa Fe,Río Negro,1697,3231,previaje 3
+2022-11,Santa Fe,Salta,1472,2719,previaje 3
+2022-11,Santa Fe,San Juan,153,266,previaje 3
+2022-11,Santa Fe,San Luis,570,1037,previaje 3
+2022-11,Santa Fe,Santa Cruz,1584,2945,previaje 3
+2022-11,Santa Fe,Santa Fe,311,798,previaje 3
+2022-11,Santa Fe,Santiago del Estero,107,253,previaje 3
+2022-11,Santa Fe,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1160,2064,previaje 3
+2022-11,Santa Fe,Tucumán,215,372,previaje 3
+2022-11,Santiago del Estero,Buenos Aires,88,157,previaje 3
+2022-11,Santiago del Estero,Chubut,26,43,previaje 3
+2022-11,Santiago del Estero,Ciudad Autónoma de Buenos Aires,206,346,previaje 3
+2022-11,Santiago del Estero,Córdoba,74,154,previaje 3
+2022-11,Santiago del Estero,Corrientes,3,8,previaje 3
+2022-11,Santiago del Estero,Entre Ríos,3,3,previaje 3
+2022-11,Santiago del Estero,Jujuy,7,24,previaje 3
+2022-11,Santiago del Estero,Mendoza,45,64,previaje 3
+2022-11,Santiago del Estero,Misiones,13,20,previaje 3
+2022-11,Santiago del Estero,Neuquén,9,13,previaje 3
+2022-11,Santiago del Estero,Río Negro,52,93,previaje 3
+2022-11,Santiago del Estero,Salta,37,82,previaje 3
+2022-11,Santiago del Estero,San Luis,29,51,previaje 3
+2022-11,Santiago del Estero,Santa Cruz,24,47,previaje 3
+2022-11,Santiago del Estero,Santa Fe,4,6,previaje 3
+2022-11,Santiago del Estero,Santiago del Estero,46,160,previaje 3
+2022-11,Santiago del Estero,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",20,36,previaje 3
+2022-11,Santiago del Estero,Tucumán,14,37,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Buenos Aires,215,336,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Chaco,6,14,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Chubut,35,49,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Ciudad Autónoma de Buenos Aires,405,609,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Córdoba,112,211,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Corrientes,7,12,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Entre Ríos,19,34,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Jujuy,21,38,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",La Pampa,3,5,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Mendoza,29,50,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Misiones,18,30,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Neuquén,9,12,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Río Negro,19,21,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Salta,32,59,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",San Juan,7,10,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santa Cruz,118,226,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santa Fe,8,15,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santiago del Estero,7,21,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur","Tierra del Fuego, Antártida e Islas del Atlántico Sur",118,257,previaje 3
+2022-11,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Tucumán,6,8,previaje 3
+2022-11,Tucumán,Buenos Aires,1091,1674,previaje 3
+2022-11,Tucumán,Catamarca,20,33,previaje 3
+2022-11,Tucumán,Chubut,63,99,previaje 3
+2022-11,Tucumán,Ciudad Autónoma de Buenos Aires,1453,2589,previaje 3
+2022-11,Tucumán,Córdoba,217,379,previaje 3
+2022-11,Tucumán,Corrientes,13,26,previaje 3
+2022-11,Tucumán,Entre Ríos,73,104,previaje 3
+2022-11,Tucumán,Jujuy,129,247,previaje 3
+2022-11,Tucumán,La Rioja,7,10,previaje 3
+2022-11,Tucumán,Mendoza,71,117,previaje 3
+2022-11,Tucumán,Misiones,167,342,previaje 3
+2022-11,Tucumán,Neuquén,43,95,previaje 3
+2022-11,Tucumán,Río Negro,352,646,previaje 3
+2022-11,Tucumán,Salta,177,415,previaje 3
+2022-11,Tucumán,San Luis,76,103,previaje 3
+2022-11,Tucumán,Santa Cruz,78,129,previaje 3
+2022-11,Tucumán,Santa Fe,66,105,previaje 3
+2022-11,Tucumán,Santiago del Estero,49,136,previaje 3
+2022-11,Tucumán,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",92,158,previaje 3
+2022-11,Tucumán,Tucumán,156,356,previaje 3
+2022-12,Buenos Aires,Buenos Aires,1001,2321,previaje 3
+2022-12,Buenos Aires,Catamarca,11,21,previaje 3
+2022-12,Buenos Aires,Chaco,4,5,previaje 3
+2022-12,Buenos Aires,Chubut,135,226,previaje 3
+2022-12,Buenos Aires,Ciudad Autónoma de Buenos Aires,121,308,previaje 3
+2022-12,Buenos Aires,Córdoba,123,280,previaje 3
+2022-12,Buenos Aires,Corrientes,12,27,previaje 3
+2022-12,Buenos Aires,Entre Ríos,104,270,previaje 3
+2022-12,Buenos Aires,Formosa,3,7,previaje 3
+2022-12,Buenos Aires,Jujuy,58,123,previaje 3
+2022-12,Buenos Aires,La Rioja,20,33,previaje 3
+2022-12,Buenos Aires,Mendoza,257,568,previaje 3
+2022-12,Buenos Aires,Misiones,410,1038,previaje 3
+2022-12,Buenos Aires,Neuquén,174,397,previaje 3
+2022-12,Buenos Aires,Río Negro,278,578,previaje 3
+2022-12,Buenos Aires,Salta,144,312,previaje 3
+2022-12,Buenos Aires,San Juan,12,29,previaje 3
+2022-12,Buenos Aires,San Luis,36,72,previaje 3
+2022-12,Buenos Aires,Santa Cruz,335,547,previaje 3
+2022-12,Buenos Aires,Santa Fe,16,30,previaje 3
+2022-12,Buenos Aires,Santiago del Estero,10,13,previaje 3
+2022-12,Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",223,464,previaje 3
+2022-12,Buenos Aires,Tucumán,29,50,previaje 3
+2022-12,Catamarca,Buenos Aires,6,17,previaje 3
+2022-12,Catamarca,Ciudad Autónoma de Buenos Aires,13,27,previaje 3
+2022-12,Chaco,Buenos Aires,7,16,previaje 3
+2022-12,Chaco,Ciudad Autónoma de Buenos Aires,32,57,previaje 3
+2022-12,Chaco,Córdoba,16,30,previaje 3
+2022-12,Chaco,Misiones,25,45,previaje 3
+2022-12,Chaco,San Luis,7,8,previaje 3
+2022-12,Chaco,Santa Cruz,7,25,previaje 3
+2022-12,Chaco,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",5,17,previaje 3
+2022-12,Chubut,Buenos Aires,25,50,previaje 3
+2022-12,Chubut,Chubut,9,32,previaje 3
+2022-12,Chubut,Ciudad Autónoma de Buenos Aires,60,116,previaje 3
+2022-12,Chubut,Córdoba,3,11,previaje 3
+2022-12,Chubut,Neuquén,8,14,previaje 3
+2022-12,Chubut,Río Negro,4,9,previaje 3
+2022-12,Chubut,San Luis,3,3,previaje 3
+2022-12,Chubut,Santa Cruz,5,11,previaje 3
+2022-12,Chubut,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",5,9,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Buenos Aires,611,1334,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Catamarca,16,21,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Chubut,61,118,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,39,70,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Córdoba,217,303,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Corrientes,32,51,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Entre Ríos,84,204,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Formosa,3,5,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Jujuy,52,103,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,La Pampa,5,10,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,La Rioja,4,7,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Mendoza,225,438,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Misiones,303,749,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Neuquén,127,201,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Río Negro,267,498,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Salta,109,198,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,San Juan,13,22,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,San Luis,45,63,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Santa Cruz,200,382,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Santa Fe,24,45,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Santiago del Estero,13,34,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",125,242,previaje 3
+2022-12,Ciudad Autónoma de Buenos Aires,Tucumán,33,63,previaje 3
+2022-12,Córdoba,Buenos Aires,160,327,previaje 3
+2022-12,Córdoba,Catamarca,3,3,previaje 3
+2022-12,Córdoba,Chubut,29,50,previaje 3
+2022-12,Córdoba,Ciudad Autónoma de Buenos Aires,337,698,previaje 3
+2022-12,Córdoba,Córdoba,183,598,previaje 3
+2022-12,Córdoba,Entre Ríos,6,19,previaje 3
+2022-12,Córdoba,Jujuy,31,48,previaje 3
+2022-12,Córdoba,La Rioja,3,5,previaje 3
+2022-12,Córdoba,Mendoza,68,145,previaje 3
+2022-12,Córdoba,Misiones,76,169,previaje 3
+2022-12,Córdoba,Neuquén,57,79,previaje 3
+2022-12,Córdoba,Río Negro,82,152,previaje 3
+2022-12,Córdoba,Salta,59,101,previaje 3
+2022-12,Córdoba,San Juan,3,7,previaje 3
+2022-12,Córdoba,San Luis,27,66,previaje 3
+2022-12,Córdoba,Santa Cruz,95,158,previaje 3
+2022-12,Córdoba,Santa Fe,6,8,previaje 3
+2022-12,Córdoba,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",117,181,previaje 3
+2022-12,Córdoba,Tucumán,12,16,previaje 3
+2022-12,Corrientes,Buenos Aires,5,10,previaje 3
+2022-12,Corrientes,Ciudad Autónoma de Buenos Aires,47,85,previaje 3
+2022-12,Corrientes,Córdoba,3,5,previaje 3
+2022-12,Corrientes,San Luis,3,3,previaje 3
+2022-12,Entre Ríos,Buenos Aires,5,13,previaje 3
+2022-12,Entre Ríos,Catamarca,19,28,previaje 3
+2022-12,Entre Ríos,Chubut,8,10,previaje 3
+2022-12,Entre Ríos,Ciudad Autónoma de Buenos Aires,7,20,previaje 3
+2022-12,Entre Ríos,Córdoba,4,9,previaje 3
+2022-12,Entre Ríos,Corrientes,3,7,previaje 3
+2022-12,Entre Ríos,Jujuy,6,10,previaje 3
+2022-12,Entre Ríos,La Rioja,15,18,previaje 3
+2022-12,Entre Ríos,Mendoza,5,10,previaje 3
+2022-12,Entre Ríos,Misiones,7,22,previaje 3
+2022-12,Entre Ríos,Río Negro,26,45,previaje 3
+2022-12,Entre Ríos,Salta,17,21,previaje 3
+2022-12,Entre Ríos,San Luis,47,67,previaje 3
+2022-12,Entre Ríos,Santa Cruz,26,55,previaje 3
+2022-12,Entre Ríos,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",24,41,previaje 3
+2022-12,Formosa,Ciudad Autónoma de Buenos Aires,10,17,previaje 3
+2022-12,Formosa,Córdoba,7,16,previaje 3
+2022-12,Formosa,Formosa,3,3,previaje 3
+2022-12,Jujuy,Buenos Aires,9,22,previaje 3
+2022-12,Jujuy,Ciudad Autónoma de Buenos Aires,21,35,previaje 3
+2022-12,Jujuy,Corrientes,3,11,previaje 3
+2022-12,Jujuy,Jujuy,5,10,previaje 3
+2022-12,Jujuy,Salta,6,13,previaje 3
+2022-12,La Pampa,Buenos Aires,5,16,previaje 3
+2022-12,La Pampa,Ciudad Autónoma de Buenos Aires,9,17,previaje 3
+2022-12,La Rioja,Ciudad Autónoma de Buenos Aires,19,43,previaje 3
+2022-12,Mendoza,Buenos Aires,102,209,previaje 3
+2022-12,Mendoza,Chubut,3,6,previaje 3
+2022-12,Mendoza,Ciudad Autónoma de Buenos Aires,223,476,previaje 3
+2022-12,Mendoza,Córdoba,27,47,previaje 3
+2022-12,Mendoza,Mendoza,61,152,previaje 3
+2022-12,Mendoza,Misiones,9,22,previaje 3
+2022-12,Mendoza,Neuquén,9,22,previaje 3
+2022-12,Mendoza,Río Negro,14,26,previaje 3
+2022-12,Mendoza,Salta,5,15,previaje 3
+2022-12,Mendoza,San Juan,8,26,previaje 3
+2022-12,Mendoza,San Luis,26,69,previaje 3
+2022-12,Mendoza,Santa Cruz,12,25,previaje 3
+2022-12,Mendoza,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",6,10,previaje 3
+2022-12,Misiones,Buenos Aires,5,16,previaje 3
+2022-12,Misiones,Ciudad Autónoma de Buenos Aires,16,38,previaje 3
+2022-12,Misiones,Córdoba,4,6,previaje 3
+2022-12,Misiones,Corrientes,4,6,previaje 3
+2022-12,Misiones,Misiones,7,21,previaje 3
+2022-12,Neuquén,Buenos Aires,24,54,previaje 3
+2022-12,Neuquén,Ciudad Autónoma de Buenos Aires,78,143,previaje 3
+2022-12,Neuquén,Córdoba,9,11,previaje 3
+2022-12,Neuquén,Neuquén,24,75,previaje 3
+2022-12,Neuquén,Río Negro,12,31,previaje 3
+2022-12,Neuquén,Salta,14,33,previaje 3
+2022-12,Neuquén,Santa Cruz,3,6,previaje 3
+2022-12,Neuquén,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",4,4,previaje 3
+2022-12,Río Negro,Buenos Aires,56,91,previaje 3
+2022-12,Río Negro,Chubut,3,7,previaje 3
+2022-12,Río Negro,Ciudad Autónoma de Buenos Aires,66,121,previaje 3
+2022-12,Río Negro,Córdoba,6,13,previaje 3
+2022-12,Río Negro,Mendoza,4,5,previaje 3
+2022-12,Río Negro,Misiones,3,7,previaje 3
+2022-12,Río Negro,Neuquén,27,67,previaje 3
+2022-12,Río Negro,Río Negro,46,73,previaje 3
+2022-12,Río Negro,Salta,5,7,previaje 3
+2022-12,Río Negro,Santa Cruz,3,3,previaje 3
+2022-12,Salta,Buenos Aires,39,81,previaje 3
+2022-12,Salta,Chubut,3,5,previaje 3
+2022-12,Salta,Ciudad Autónoma de Buenos Aires,78,149,previaje 3
+2022-12,Salta,Córdoba,4,6,previaje 3
+2022-12,Salta,Jujuy,4,8,previaje 3
+2022-12,Salta,Mendoza,7,12,previaje 3
+2022-12,Salta,Misiones,6,21,previaje 3
+2022-12,Salta,Neuquén,10,18,previaje 3
+2022-12,Salta,Río Negro,3,3,previaje 3
+2022-12,Salta,Salta,17,39,previaje 3
+2022-12,San Juan,Buenos Aires,19,42,previaje 3
+2022-12,San Juan,Ciudad Autónoma de Buenos Aires,61,131,previaje 3
+2022-12,San Juan,San Juan,3,5,previaje 3
+2022-12,San Juan,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",6,17,previaje 3
+2022-12,San Luis,Buenos Aires,10,20,previaje 3
+2022-12,San Luis,Ciudad Autónoma de Buenos Aires,22,38,previaje 3
+2022-12,San Luis,Córdoba,5,6,previaje 3
+2022-12,San Luis,Neuquén,3,6,previaje 3
+2022-12,San Luis,San Luis,5,11,previaje 3
+2022-12,San Luis,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",5,13,previaje 3
+2022-12,Santa Cruz,Buenos Aires,8,13,previaje 3
+2022-12,Santa Cruz,Chubut,3,9,previaje 3
+2022-12,Santa Cruz,Ciudad Autónoma de Buenos Aires,19,23,previaje 3
+2022-12,Santa Cruz,Santa Cruz,3,6,previaje 3
+2022-12,Santa Cruz,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",4,8,previaje 3
+2022-12,Santa Fe,Buenos Aires,107,226,previaje 3
+2022-12,Santa Fe,Catamarca,24,41,previaje 3
+2022-12,Santa Fe,Chubut,30,40,previaje 3
+2022-12,Santa Fe,Ciudad Autónoma de Buenos Aires,98,245,previaje 3
+2022-12,Santa Fe,Córdoba,70,165,previaje 3
+2022-12,Santa Fe,Entre Ríos,24,60,previaje 3
+2022-12,Santa Fe,Jujuy,33,53,previaje 3
+2022-12,Santa Fe,La Rioja,8,11,previaje 3
+2022-12,Santa Fe,Mendoza,72,128,previaje 3
+2022-12,Santa Fe,Misiones,88,193,previaje 3
+2022-12,Santa Fe,Neuquén,20,41,previaje 3
+2022-12,Santa Fe,Río Negro,66,128,previaje 3
+2022-12,Santa Fe,Salta,79,111,previaje 3
+2022-12,Santa Fe,San Juan,3,6,previaje 3
+2022-12,Santa Fe,San Luis,27,46,previaje 3
+2022-12,Santa Fe,Santa Cruz,106,231,previaje 3
+2022-12,Santa Fe,Santa Fe,15,33,previaje 3
+2022-12,Santa Fe,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",76,143,previaje 3
+2022-12,Santa Fe,Tucumán,4,6,previaje 3
+2022-12,Santiago del Estero,Buenos Aires,11,21,previaje 3
+2022-12,Santiago del Estero,Ciudad Autónoma de Buenos Aires,17,29,previaje 3
+2022-12,Santiago del Estero,Neuquén,8,14,previaje 3
+2022-12,Santiago del Estero,Río Negro,8,22,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Buenos Aires,8,14,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Chaco,3,3,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Ciudad Autónoma de Buenos Aires,34,53,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Córdoba,4,6,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Santa Cruz,5,12,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur","Tierra del Fuego, Antártida e Islas del Atlántico Sur",4,7,previaje 3
+2022-12,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Tucumán,3,5,previaje 3
+2022-12,Tucumán,Buenos Aires,55,124,previaje 3
+2022-12,Tucumán,Chubut,3,4,previaje 3
+2022-12,Tucumán,Ciudad Autónoma de Buenos Aires,174,348,previaje 3
+2022-12,Tucumán,Córdoba,4,8,previaje 3
+2022-12,Tucumán,Mendoza,4,8,previaje 3
+2022-12,Tucumán,Río Negro,3,3,previaje 3
+2022-12,Tucumán,Salta,6,16,previaje 3
+2022-12,Tucumán,Santa Fe,3,5,previaje 3
+2022-12,Tucumán,Tucumán,10,29,previaje 3
