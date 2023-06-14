@@ -5,3 +5,6 @@ https://datos.gob.ar/dataset/turismo-previaje
 
 
 https://www.datos.gob.ar/dataset/salud-nacidos-vivos-registrados-por-jurisdiccion-residencia-madre---republica-argentina/archivo/salud_b04f2d74-ebbf-459d-a9a6-90b4985670c
+
+
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
