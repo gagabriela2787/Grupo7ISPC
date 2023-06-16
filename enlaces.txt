@@ -1,0 +1,12 @@
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
+
+
+https://datos.gob.ar/dataset/turismo-previaje
+
+
+https://www.datos.gob.ar/dataset/salud-nacidos-vivos-registrados-por-jurisdiccion-residencia-madre---republica-argentina/archivo/salud_b04f2d74-ebbf-459d-a9a6-90b4985670ca
+
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
+
+
+https://campus.ort.edu.ar/secundaria/conexiones/introdatascience/articulo/1834922/como-subir-archivos-csv-a-google-colaboratory#:~:text=colab%20import%20files%20uploaded%20%3D%20files,upload()%20data%20%3D%20pd
