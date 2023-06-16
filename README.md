@@ -8,7 +8,7 @@ Integrantes:
 * -ingresar nombre
 * -ingresar nombre
 * -ingresar nombre
-* -ingresar nombre
+* Nicolas González Da Silva
 * Gabriela Cáceres
 
 
