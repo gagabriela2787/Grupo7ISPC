@@ -1,4 +1,4 @@
-﻿"jurisdiccion_de_residencia_id","jurisdiccion_de_residencia_nombre","tipo_de_parto_id","tipo_de_parto_nombre","sexo","sexo_nombre","edad_de_la_madre_grupos_id","edad_de_la_madre_grupos_nombre","semanas_de_gestacion_id","semanas_de_gestacion_nombre","instruccion_de_la_madre_id","instruccion_de_la_madre_nombre","Intervalos_de_peso_al_nacer_id","intervalos_de_peso_al_nacer_nombre","cantidad_nacimientos"
+"jurisdiccion_de_residencia_id","jurisdiccion_de_residencia_nombre","tipo_de_parto_id","tipo_de_parto_nombre","sexo","sexo_nombre","edad_de_la_madre_grupos_id","edad_de_la_madre_grupos_nombre","semanas_de_gestacion_id","semanas_de_gestacion_nombre","instruccion_de_la_madre_id","instruccion_de_la_madre_nombre","Intervalos_de_peso_al_nacer_id","intervalos_de_peso_al_nacer_nombre","cantidad_nacimientos"
 34,"Formosa",1,"Simple",2,"Mujer",4,"25 a 29",5,"32 a 36",3,"Primaria/C. EGB Completa",5,"2000 a 2499",3
 2,"Ciudad Aut. de Buenos Aires",1,"Simple",1,"Varón",7,"40 a 44",6,"37 a 41",3,"Primaria/C. EGB Completa",6,"2500 a 2999",13
 6,"Buenos Aires",1,"Simple",1,"Varón",5,"30 a 34",8,"Sin especificar",7,"Terciaria/Universitaria Comple",4,"1500 a 1999",1
