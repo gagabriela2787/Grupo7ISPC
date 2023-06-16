@@ -1,5 +1,15 @@
 # Grupo7ISPC
 Trabajo Practico de la materia Procesamiento de datos
+Profesor: Moises Tinte
+Integrantes: 
+
+* -ingresar nombre
+* -ingresar nombre
+* -ingresar nombre
+* -ingresar nombre
+* -ingresar nombre
+* -ingresar nombre
+* Gabriela Cáceres
 
 
 Consigna para proyecto de finalización: Procesamiento de Datos
