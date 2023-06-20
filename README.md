@@ -6,7 +6,7 @@ Integrantes:
 * -ingresar nombre
 * -ingresar nombre
 * -ingresar nombre
-* -ingresar nombre
+* Silvia Carina Monzón
 * Natalia Lamia
 * Nicolas González Da Silva
 * Gabriela Cáceres
