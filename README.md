@@ -7,7 +7,7 @@ Integrantes:
 * -ingresar nombre
 * -ingresar nombre
 * -ingresar nombre
-* -ingresar nombre
+* Natalia Lamia
 * Nicolas González Da Silva
 * Gabriela Cáceres
 
