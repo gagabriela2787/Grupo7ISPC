@@ -14,7 +14,10 @@ Profesor: Moises Tinte
 * Gabriela Cáceres
 
 <br>
-Consigna para proyecto de finalización: Procesamiento de Datos
+
+## Consigna para proyecto de finalización: Procesamiento de Datos
+
+[![HPA419t.png](https://iili.io/HPA419t.png)](https://freeimage.host/es)
 
 Aplicación de técnicas de procesamiento de datos en una temática relacionada
 >
