@@ -1,0 +1,24 @@
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
+
+
+https://datos.gob.ar/dataset/turismo-previaje
+
+
+https://www.datos.gob.ar/dataset/salud-nacidos-vivos-registrados-por-jurisdiccion-residencia-madre---republica-argentina/archivo/salud_b04f2d74-ebbf-459d-a9a6-90b4985670c
+
+
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
+
+
+
+*Cuadernos de Google Colab que se trabajaron*
+    
+    https://colab.research.google.com/drive/19cvBSeSyYAeLa0c9lFL5keiVVAwZ1GUU?usp=sharing
+    
+    https://colab.research.google.com/drive/1Lpc_2q5QwtJ81KPJ7hEOGjQ0RsO7krzm?usp=sharing
+    
+    https://colab.research.google.com/drive/1vmUPubC8lqZ2tBeVtizO3Nau8HBhPfRg?usp=sharing
+    
+    https://www.kaggle.com/datasets/tinnqn/precios-claros-precios-de-argentina
+    
+    https://colab.research.google.com/drive/1G9ohUjccIgwsyGPDDnT4wll9EZBDS4EB?usp=sharing 
