@@ -22,3 +22,7 @@ https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-pytho
     https://www.kaggle.com/datasets/tinnqn/precios-claros-precios-de-argentina
     
     https://colab.research.google.com/drive/1G9ohUjccIgwsyGPDDnT4wll9EZBDS4EB?usp=sharing 
+
+#web para consultar
+
+https://www.delftstack.com/es/
