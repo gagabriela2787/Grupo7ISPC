@@ -23,6 +23,11 @@ Aplicación de técnicas de procesamiento de datos en una temática relacionada
 >
 >Objetivo del proyecto: El objetivo de este proyecto es aplicar los conceptos estudiados en el espacio curricular de "Procesamiento de Datos" para realizar el procesamiento y análisis de datos. Los miembros del grupo tendrán la libertad de elegir el tema y los datos de interés sobre los cuales trabajar.
 >
+>Los integrantes del Grupo 7 proponemos trabajar con el Dataset de la página
+https://www.datos.gob.ar/dataset/salud-nacidos-vivos-registrados-por-jurisdiccion-residencia-madre---republica-argentina,
+que contiene datos de nacidos vivos registrados en la República Argentina para el año 2018, incluyendo jurisdicción de residencia de la
+madre, tipo de parto y otras variables de interés.
+>
 Descripción del proyecto: El proyecto consiste en desarrollar un procesamiento de datos que incluya las siguientes etapas:
 
 Recolección y preparación de datos: Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
