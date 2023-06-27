@@ -13,6 +13,7 @@ https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-pytho
 
 https://www.delftstack.com/es/
 
+https://aprendeconalf.es/docencia/python/manual/diccionarios/
 
 
 
