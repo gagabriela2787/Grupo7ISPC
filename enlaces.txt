@@ -15,6 +15,7 @@ https://www.delftstack.com/es/
 
 https://aprendeconalf.es/docencia/python/manual/diccionarios/
 
+https://www.w3schools.com/python/python_arrays.asp
 
 
 
