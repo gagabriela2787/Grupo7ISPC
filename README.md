@@ -5,7 +5,7 @@ Profesor: Moises Tinte
 
 **Integrantes:** :loudspeaker:
 
-* Lilen Guzmún
+* Lilen Guzmán
 * María Laura Peralta
 * Belen Riquelme
 * Silvia Carina Monzón
